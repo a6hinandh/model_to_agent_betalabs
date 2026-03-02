@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+venv/
+.venv/
+.env.*
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# API keys / secrets
+secrets.json
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
